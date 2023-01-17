@@ -27,7 +27,7 @@ start_dt=sys.argv[2]
 end_dt=sys.argv[3]
 interval=sys.argv[4]
 scores={}
-client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAALh%2BZgEAAAAAEXrYkRPMqaELWYeX3oGtrunD2uc%3DH2KJQg70Sp1VICNNSlvT5lQo28o06djnV2wd0U5lqW47fTWZJO')
+client = tweepy.Client(bearer_token=XXX)
 
 def tech_score(j,start_dt,end_dt,interval):
     buy_picks={}
