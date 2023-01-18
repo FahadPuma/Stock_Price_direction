@@ -1,4 +1,4 @@
-## **Stock_Price_direction**
+## **Stock Price Direction**
 To generate recommendations for a stock price movement based upon technical, Regression and Sentiment analysis
 
 ### **Problem Statement:**
